@@ -1,4 +1,4 @@
-# OWASP Foundation AppSec Days - Summer of Security
+# AppSec Days - Summer of Security
 
 **About** : The OWASP Foundation is hosting AppSec Days. Virtual training courses will be given on June 23-24, July 28-29, and August 25-26. The virtual training classes are 8 hour courses offered in 4-hour blocks on the two days above in each month. 
 
