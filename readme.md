@@ -25,5 +25,5 @@ Special thanks to [OWASP Foundation](https://twitter.com/owasp) for hosting me.
 
 Feel free to ping me anytime on [Telegram](http://telegram.me/rowdymehul) or [Twitter](http://twitter.com/rowdymehul) and I’m happy to chat with you.
 
-For any queries raise a [issue](https://github.com/rowdymehul/The-Hackers-Meetup-India-Webinar/issues) and please feel free to submit a PR anytime :)
+For any queries raise a [issue](https://github.com/rowdymehul/AppSec-Days-Summer-of-Security/issues) and please feel free to submit a PR anytime :)
 
