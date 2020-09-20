@@ -15,9 +15,9 @@
 * **Date**: August 25-26 2020
 * **Time**: 2 Days 
 
-![](images/mehul-patel.jpeg)
+![](images/mehul-patel.jpg)
 
-![](images/owasp-speakers.jpeg)
+![](images/owasp-speakers.jpg)
 
 Special thanks to [OWASP Foundation](https://twitter.com/owasp) for hosting me.
 
