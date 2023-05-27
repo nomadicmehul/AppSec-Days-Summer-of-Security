@@ -2,10 +2,10 @@
 
 **About** : The OWASP Foundation is hosting AppSec Days. Virtual training courses will be given on June 23-24, July 28-29, and August 25-26. The virtual training classes are 8 hour courses offered in 4-hour blocks on the two days above in each month. 
 
-[![](https://img.shields.io/badge/Mehul-Patel-brightgreen.svg?colorB=00ff00)](https://www.rowdymehul.com)
+[![](https://img.shields.io/badge/Mehul-Patel-brightgreen.svg?colorB=00ff00)](https://www.nomadicmehul.com)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![GitHub followers](https://img.shields.io/github/followers/rowdymehul?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/rowdymehul?style=social)
+![GitHub followers](https://img.shields.io/github/followers/nomadicmehul?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/nomadicmehul?style=social)
 
 
 ### Talk Details 
